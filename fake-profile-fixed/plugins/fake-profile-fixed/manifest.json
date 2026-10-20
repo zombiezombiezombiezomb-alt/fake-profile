@@ -1,0 +1,13 @@
+{
+	"id": "Chris/xx.fake-profile-fixed",
+	"name": "Fake Profile Fixed",
+	"description": "Shh",
+	"authors": [
+		{
+			"name": "Chris/xx",
+			"id": "234276897738063872"
+		}
+	],
+	"version": "1.0.0",
+	"main": "index.tsx"
+}
