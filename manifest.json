@@ -1,13 +1,13 @@
 {
   "id": "unbound-fakeprofile",
   "name": "Fake Profile (Local)",
-  "description": "Prototype for locally previewing custom profile details in Unbound. Does not change Discord account data.",
+  "description": "Local-only fake profile preview with custom connection cards. Does not alter Discord account data.",
   "authors": [
     {
       "name": "OpenAI",
       "id": "0"
     }
   ],
-  "version": "0.1.0",
+  "version": "0.3.0",
   "main": "index.js"
 }
