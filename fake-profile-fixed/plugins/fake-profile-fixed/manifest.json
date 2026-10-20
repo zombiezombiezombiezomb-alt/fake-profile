@@ -1,13 +1,13 @@
 {
-	"id": "Chris/xx.fake-profile-fixed",
-	"name": "Fake Profile Fixed",
-	"description": "Shh",
+	"id": "Chris/xx",
+	"name": "Fake Profile",
+	"description": "A Plugin To Larp Professionally.",
 	"authors": [
 		{
 			"name": "Chris/xx",
 			"id": "234276897738063872"
 		}
 	],
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"main": "index.tsx"
 }
