@@ -1,0 +1,13 @@
+{
+  "id": "unbound-fakeprofile",
+  "name": "Fake Profile (Local)",
+  "description": "Local-only fake profile preview with custom connection cards. Does not alter Discord account data.",
+  "authors": [
+    {
+      "name": "OpenAI",
+      "id": "0"
+    }
+  ],
+  "version": "0.3.0",
+  "main": "index.js"
+}
